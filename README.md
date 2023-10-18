@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://iconscout.com/lottie-animation/waving-hand-6755887.gif" width="30px">
 
 <!--
 **DavisJekalis/DavisJekalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
