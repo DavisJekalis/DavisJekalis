@@ -15,3 +15,8 @@ Designed a SQL database to store flight and airport data.<br>
 Implemented search functionality, allowing users to find flights using various search phrases.<br>
 Ensured accurate input and output values through rigorous testing with Postman.<br>
 Implemented basic operations, including retrieving flights, deleting flights, and clearing the entire storage.<br>
+
+[3. Azure Data scraper](https://github.com/DavisJekalis/Scraper "Data Scraper")<br>
+Azure Function that runs on a timer trigger, fetches random data from a public API, 
+creates a log entry in a table storage based on the API response status, 
+and uploads the API response content as a JSON file to a blob storage.
