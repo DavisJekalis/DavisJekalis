@@ -9,7 +9,7 @@ Implemented unit testing to ensure the reliability of the code.<br>
 Simulated real-world scooter rental operations, managing usage time and rental costs efficiently.<br>
 Engineered features for generating annual income reports.<br>
 <br>
-[2. FlightPlanner WebAPI with SQL Database](https://github.com/DavisJekalis/FlightPlanner "Flight Planner")<br>
+[2. FlightPlanner WebAPI with SQL Database](https://github.com/DavisJekalis/Flight-Planner "Flight Planner")<br>
 Developed a powerful FlightPlanner WebAPI using C# with Entity Framework.<br>
 Designed a SQL database to store flight and airport data.<br>
 Implemented search functionality, allowing users to find flights using various search phrases.<br>
